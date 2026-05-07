@@ -1,6 +1,6 @@
-# Collo.dev: Scrum Master Github AI Agent Template
+# SCRUMTIOUS: Scrum Master Github AI Agent Template
 
-![Demo](assets/demo20s.gif)
+
 
 ## Why AI Needs a Scrum Master
 
